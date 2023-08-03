@@ -20,3 +20,9 @@ At this point, my knowledge base does not stop replenishing, it is supplemented 
 If you are interested in me, be sure to write to me in the social network.networks for further communication or cooperation 📬. 
 
 See you later, hugged🫂
+
+## Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxWind29&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaxWind29&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxWind29&layout=pie)](https://github.com/MaxWind29/github-readme-stats)
