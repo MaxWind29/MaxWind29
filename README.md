@@ -20,17 +20,3 @@ At this point, my knowledge base does not stop replenishing, it is supplemented 
 If you are interested in me, be sure to write to me in the social network.networks for further communication or cooperation 📬. 
 
 See you later, hugged🫂
-
-
-
-Languages and Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxWind29)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxWind29&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaxWind29)  
-
-![Profile views](https://gpvc.arturio.dev/MaxWind29)  
-
-Follow Me
