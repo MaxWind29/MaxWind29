@@ -1,6 +1,7 @@
 [![Header](https://github.com/MaxWind29/MaxWind29/blob/main/assets/github-header-image.png)](https://vk.com/m4ximka)]
 
 ## About me
+![](https://komarev.com/ghpvc/?username=MaxWind29&color=blueviolet&style=flat)
 
 Hi 👋! My name is Maxim, I am 22 years old, and I am engaged in Web development.
 
@@ -21,8 +22,6 @@ If you are interested in me, be sure to write to me in the social network.networ
 See you later, hugged🫂
 
 ## Statistics
-
-![](https://komarev.com/ghpvc/?username=MaxWind29&color=blueviolet&style=flat)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxWind29&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaxWind29&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
